@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Food so good it can only be classified as phenommnomm!]]></title>
         <description><![CDATA[Food so good it can only be classified as phenommnomm!]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/phenommnomm/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jan 2016 14:02:04 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Jan 2016 14:12:48 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/phenommnomm/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Nuts about nutella?]]></title>
-            <description><![CDATA[<article><h1>Nuts about nutella?</h1><p>http://www.buzzfeed.com/hannahmars/giant-ballin?utm_term=.riMeDG1qj&sub=4131145_7823556</p></article>]]></description>
-            <link>undefinednuts-about-nutella/index.html</link>
+            <description><![CDATA[<article><h1>Nuts about nutella?</h1><p>http://www.buzzfeed.com/hannahmars/giant-ballin?utm_term=.riMeDG1qj&sub=4131145_7823556</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/65fd2639490bc305d0fac76f3db5fad9540c0d04.jpg"></article>]]></description>
+            <link>https://thegrid.ai/phenommnomm/nuts-about-nutella/index.html</link>
             <guid isPermaLink="false">f3bc536d-74a1-407e-a6de-1e518c1bdcc2</guid>
-            <pubDate>Sun, 24 Jan 2016 14:01:59 GMT</pubDate>
+            <pubDate>Sun, 24 Jan 2016 14:12:05 GMT</pubDate>
         </item>
     </channel>
 </rss>
