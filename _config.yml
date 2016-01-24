@@ -1,14 +1,29 @@
+name: Phenommnomm
+favicon: null
 layout_spectrum: 0.6009743
 typography_spectrum: 0.1973018
+title: 'Food so good it can only be classified as phenommnomm!'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.08094435
-  brandStrength: 0.9921808
-  lightness: 0.7984823
-  rhythmicContrast: 0.9047217
   brandColors:
     - '#17BEBB'
     - '#2E282A'
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
-name: Phenommnomm
+  brandStrength: 0.9921808
+  lightness: 0.7984823
+  saturation: 0.08094435
+  rhythmicContrast: 0.9047217
+purpose: []
